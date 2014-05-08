@@ -1,0 +1,1 @@
+rotate_extrude(convexity = 10) import(file = "bearing_path.dxf");
